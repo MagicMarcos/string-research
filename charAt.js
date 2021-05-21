@@ -10,6 +10,7 @@
 //     A string representing the character (exactly one UTF-16 code unit) at the specified index. If index is out of range, charAt() returns an empty string
 
 //! time complexity
+//? O(1) constant -> as a specific index is passed in, the function will take as long as it needs to fire regardless of length changes
 
 //!examples
 

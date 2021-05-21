@@ -26,6 +26,7 @@
 // A new string containing the specified part of the given string
 
 //! time complexity
+//? the total time it takes to complete the function depends on the length of the string passed in -> O(n) linear
 
 //! examples
 //* ex1

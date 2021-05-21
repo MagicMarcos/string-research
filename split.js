@@ -29,6 +29,7 @@
 // An Array of strings, split at each point where the separator occurs in the given string
 
 //! time complexity
+//? O(1) constant -> the function will fire at the same rate regardless of string changes
 
 //! examples
 //* ex 1

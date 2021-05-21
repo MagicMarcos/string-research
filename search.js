@@ -14,6 +14,7 @@
 // Return value -> The index of the first match between the regular expression and the given string, or -1 if no match was found.
 
 //! time complexity
+//? O(n) linear -> due to the complexity of the regex passed in, as well as the fact that this has to search through a string
 
 //! examples
 

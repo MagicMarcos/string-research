@@ -11,6 +11,7 @@
 // When called on null or undefined, for example, String.prototype.toUpperCase.call(undefined)
 
 //! time complexity
+//? length of string determines time the function takes to fire -> O(n) linear
 
 //! examples
 //* ex1

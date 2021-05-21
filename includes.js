@@ -13,6 +13,7 @@
 // true if the search string is found anywhere within the given string; otherwise, false if not
 
 //! time complexity
+//? size of string affects length of time it takes for function to perform -> linear O(n)
 
 //! examples
 //* example 1

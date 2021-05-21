@@ -7,6 +7,7 @@
 // A new string representing the calling string converted to lower case.
 
 //! time complexity
+//? length of string determines time the function takes to fire -> O(n) linear
 
 //! examples
 //* ex1

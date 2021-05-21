@@ -33,6 +33,7 @@
 // $<Name> |	Where Name is a capturing group name. If the group is not in the match, or not in the regular expression, or if a string was passed as the first argument to replace instead of a regular expression, this resolves to a literal (e.g., $<Name>). Only available in browser versions supporting named capturing groups.
 
 //! time complexity
+// O(n) as it has to search through the entire string
 
 //! examples
 //* ex 1

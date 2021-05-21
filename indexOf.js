@@ -30,6 +30,7 @@
 //However, with any fromIndex value equal to or greater than the string's length, the returned value is the string's length
 
 //! time complexity
+//? O(n) linear -> indexOf has to search through the string, so the size of the string will likely affect its time to completion
 
 //! examples
 //* ex 1

@@ -12,6 +12,7 @@
 //charCodeAt() returns NaN if the given index is less than 0, or if it is equal to or greater than the length of the string.
 
 //! time complexity
+//? O(1) constant -> as a specific index is passed in, the function will take as long as it needs to fire regardless of length changes
 
 //! examples
 //* example 1

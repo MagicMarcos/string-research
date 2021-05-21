@@ -22,6 +22,7 @@
 // Return value -> A new string containing the extracted section of the string.
 
 //! time complexity
+//? O(1) constant -> the function will fire at the same rate regardless of string changes
 
 //! examples
 //* ex1

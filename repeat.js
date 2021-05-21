@@ -12,6 +12,7 @@
 // RangeError: repeat count must be less than infinity and not overflow maximum string size.
 
 //! time complexity
+//? my guess -> linear (O(n)) as it has to recreate an entire string, so the length of the string will affect the time it takes for this to process
 
 //! examples
 'abc'.repeat(-1); // RangeError

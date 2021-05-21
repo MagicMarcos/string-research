@@ -28,6 +28,7 @@
 // A copy of the search string.
 
 //! time complexity
+//? time complexity may depend on the regex passed into the methods
 
 //! examples
 //* ex1

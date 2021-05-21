@@ -12,6 +12,7 @@
 // To return a new string with whitespace trimmed from just one end, use trimStart() or trimEnd().
 
 //! time complexity
+//? O(1) constant -> regardless of the string length the function fires at a constant rate
 
 //! examples
 //* ex1

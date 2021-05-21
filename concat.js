@@ -13,6 +13,8 @@
 // A new string containing the combined text of the strings provided.
 
 //! time complexity
+//? O(n) linear -> as number of strings increase, then the function will take longer to complete
+
 //It is strongly recommended that the assignment operators (+, +=) are used instead of the concat() method.
 
 //! examples
